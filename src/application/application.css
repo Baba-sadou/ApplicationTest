@@ -1,0 +1,10 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.bouton{
+	-fx-background-color: red;
+	-fx-pref-width:20;
+}
+.toolBar{
+	-fx-pref-width: 50;
+	-fx-pref-height: 50; 
+	-fx-background-color: green ;
+}
